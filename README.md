@@ -2,13 +2,13 @@
 
 <div align="center">
   <br />
-    <img src="/public/screenshots/Dashboard.jpg" alt="Project Banner">
-  <br />
-   <br />
     <img src="/public/screenshots/Login.jpg" alt="Project Banner">
   <br />
    <br />
-    <img src="/public/screenshots/Signup.jpg" alt="Project Banner">
+    <img src="/public/screenshots/Signup.png" alt="Project Banner">
+  <br />
+    <img src="/public/screenshots/Dashboard.jpg" alt="Project Banner">
+  <br />
   <br />
    <br />
     <img src="/public/screenshots/My_Banks.jpg" alt="Project Banner">
